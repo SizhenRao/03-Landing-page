@@ -1,0 +1,41 @@
+.cards {
+    height: 800px
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.card {
+    width: 200px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px rgb(230,230,230);
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(230,230,230);
+    margin: 20px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card p {
+  color: #C0C0C0;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2C2A2A;
+}
+
+.links {
+  color: white;
+  font-size: 20px;
+}
+
+.links i {
+  color: #66DE89;
+  font-size: 35px;
+}

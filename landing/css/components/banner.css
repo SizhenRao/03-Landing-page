@@ -1,0 +1,27 @@
+.banner {
+  height: 600PX;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container-info {
+  margin: 100px;
+  color: white;
+  text-shadow: 4px 4px 4px #0B0106;
+}
+
+.btn {
+  background-color: #66DE89;
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+  border: 7px;
+}
+
+.btn:hover {
+  background-color: #000000;
+  transition: background 1s ease;
+}
